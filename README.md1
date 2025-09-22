@@ -1,0 +1,27 @@
+Multithreaded Snake Game
+A simple multithreaded Snake game written in Python using pygame and threading. The game demonstrates how to handle user input and game logic in separate threads for improved responsiveness.
+
+Features
+Classic Snake gameplay
+Multithreaded design for input handling and game logic
+Score tracking
+Simple, clean interface
+Requirements
+Python 3.x
+pygame library
+Install pygame with:
+
+pip install pygame
+How to Run
+Clone this repository:
+
+git clone https://github.com/lepakshi1329/snake-multithreaded-game.git
+cd snake-multithreaded-game
+Run the game:
+
+python snake_multithreaded.py
+Controls
+Arrow keys to change direction
+Game ends if the snake hits the wall or itself
+License
+No license has been added. Please contact the repository owner for permissions regarding use or modification.
